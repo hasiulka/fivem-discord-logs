@@ -61,8 +61,3 @@ MIT License
 
 ## 🤝🏿 Contributing
 Pull requests and suggestions are welcome.
-
----
-
-## 🤝 Contributing
-Pull requests and suggestions are welcome.
